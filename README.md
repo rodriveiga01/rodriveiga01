@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **rodriveiga01@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=rodriveiga01)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/rodriveiga01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rodriveiga01" height="30" width="40" /></a>
