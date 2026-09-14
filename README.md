@@ -21,6 +21,9 @@ Record, relive &amp; share group rides.
 | :-- | :-- |
 | <sub>Swift · MapKit · Supabase · offline queue + 1080×1920 export</sub> | <sub>Kotlin · Compose · Room · same offline contract</sub> |
 
+**[Solas](https://github.com/rodriveiga01/Solas)** — macOS menu-bar explainer card on a global hotkey, powered by opencode.<br />
+<sub>Swift · public</sub>
+
 </div>
 
 <div align="center">
