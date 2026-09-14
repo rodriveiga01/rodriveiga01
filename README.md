@@ -31,8 +31,11 @@ Record, relive &amp; share group rides.
 <summary><sub>build log / writing</sub></summary>
 
 <!-- ACTIVITY:START -->
-- 🚧 Building `revien-ios` — offline sync + 1080×1920 export
-- 📦 Porting to `revien-android` — same offline contract
+🔀 PR opened in `pingdotgg/t3code`
+🚀 Release in `rodriveiga01/t3code`
+🍴 Forked `pingdotgg/t3code`
+🔀 PR opened in `darshi1337/apogee`
+🍴 Forked `darshi1337/apogee`
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
