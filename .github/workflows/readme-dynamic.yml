@@ -9,31 +9,20 @@ permissions:
   contents: write
 
 jobs:
-  activity:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorgewilliams/github-activity-readme@master
+      - name: Refresh build log + writing feed
+        run: python3 .github/workflows/update_readme.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "chore: update build log [skip ci]"
-          MAX_LINES: 5
-
-  devto:
-    runs-on: ubuntu-latest
-    needs: activity
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref_name }}
-          persist-credentials: true
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "BLOG"
-          rss_url: "https://dev.to/feed/rodriveiga01"
-          max_post_count: 3
-          feed_list: "https://dev.to/feed/rodriveiga01"
-          commit_message: "chore: update writing feed [skip ci]"
-          committer_username: "github-actions[bot]"
-          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md || {
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh build log + writing [skip ci]"
+            git push
+          }

@@ -17,8 +17,9 @@ Record, relive &amp; share group rides.
 
 <div align="center">
 
-[![revien-ios repo card](https://github-readme-stats.vercel.app/api/pin/?username=rodriveiga01&repo=revien-ios&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/rodriveiga01/revien-ios)
-[![revien-android repo card](https://github-readme-stats.vercel.app/api/pin/?username=rodriveiga01&repo=revien-android&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/rodriveiga01/revien-android)
+| 🔒 [revien-ios](https://github.com/rodriveiga01/revien-ios) · private, in dev | 🔒 [revien-android](https://github.com/rodriveiga01/revien-android) · private, port |
+| :-- | :-- |
+| <sub>Swift · MapKit · Supabase · offline queue + 1080×1920 export</sub> | <sub>Kotlin · Compose · Room · same offline contract</sub> |
 
 </div>
 
@@ -35,7 +36,9 @@ Record, relive &amp; share group rides.
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
-- Latest notes on [dev.to/rodriveiga01](https://dev.to/rodriveiga01)
+- [Micro-Commits: Why You Should Do 'Em](https://dev.to/rodriveiga01/micro-commits-why-you-should-do-em-imp)
+- [Why simple and easy apps are not a future but a choice](https://dev.to/rodriveiga01/why-simple-and-easy-apps-are-not-a-future-but-a-choice-12gg)
+- [How to update your favicon on your website](https://dev.to/rodriveiga01/how-to-update-your-favicon-on-your-website-4k1a)
 <!-- BLOG:END -->
 
 </details>
