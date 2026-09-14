@@ -1,0 +1,39 @@
+name: readme-dynamic
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorgewilliams/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update build log [skip ci]"
+          MAX_LINES: 5
+
+  devto:
+    runs-on: ubuntu-latest
+    needs: activity
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          persist-credentials: true
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG"
+          rss_url: "https://dev.to/feed/rodriveiga01"
+          max_post_count: 3
+          feed_list: "https://dev.to/feed/rodriveiga01"
+          commit_message: "chore: update writing feed [skip ci]"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
