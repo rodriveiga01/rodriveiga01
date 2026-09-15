@@ -34,11 +34,11 @@ Record, relive &amp; share group rides.
 <summary><sub>build log / writing</sub></summary>
 
 <!-- ACTIVITY:START -->
+⬆️ Pushed 0 commits to `rodriveiga01/Solas`
+🔀 PR merged in `darshi1337/apogee`
+⭐ Starred `rodriveiga01/Solas`
 🔀 PR opened in `pingdotgg/t3code`
 🚀 Release in `rodriveiga01/t3code`
-🍴 Forked `pingdotgg/t3code`
-🔀 PR opened in `darshi1337/apogee`
-🍴 Forked `darshi1337/apogee`
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
