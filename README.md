@@ -35,10 +35,10 @@ Record, relive &amp; share group rides.
 
 <!-- ACTIVITY:START -->
 ⬆️ Pushed 0 commits to `rodriveiga01/Solas`
+🌱 New branch in `rodriveiga01/Solas`
+🌱 New branch in `rodriveiga01/apogee`
+⬆️ Pushed 0 commits to `rodriveiga01/what-is-it-made-of`
 🔀 PR merged in `darshi1337/apogee`
-⭐ Starred `rodriveiga01/Solas`
-🔀 PR opened in `pingdotgg/t3code`
-🚀 Release in `rodriveiga01/t3code`
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
