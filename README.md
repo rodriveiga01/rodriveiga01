@@ -37,11 +37,11 @@ Record, relive &amp; share group rides.
 <summary><sub>build log / writing</sub></summary>
 
 <!-- ACTIVITY:START -->
-⬆️ Pushed 0 commits to `rodriveiga01/Solas`
-🌱 New branch in `rodriveiga01/Solas`
 🌱 New branch in `rodriveiga01/apogee`
-⬆️ Pushed 0 commits to `rodriveiga01/what-is-it-made-of`
-🔀 PR merged in `darshi1337/apogee`
+⬆️ Pushed 0 commits to `rodriveiga01/Solas`
+⬆️ Pushed 0 commits to `rodriveiga01/second-thought`
+🌱 New branch in `rodriveiga01/t3code`
+⭐ Starred `theabbie/DoublePendulum`
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
