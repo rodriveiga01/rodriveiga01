@@ -24,6 +24,9 @@ Record, relive &amp; share group rides.
 **[Solas](https://github.com/rodriveiga01/Solas)** — macOS menu-bar explainer card on a global hotkey, powered by opencode.<br />
 <sub>Swift · public</sub>
 
+**[tokencensus](https://github.com/rodriveiga01/tokencensus)** — local-only token counter across 5 coding tools. Every token counted, none interviewed.<br />
+<sub>Swift · menu-bar + `tok` CLI · public</sub>
+
 **[second-thought](https://github.com/rodriveiga01/second-thought)** — terminal seatbelt: judges every shell command before it runs (allow / warn / block).<br />
 <sub>Python · stdlib-only · Jev AI judge + keyless mock · public</sub>
 
