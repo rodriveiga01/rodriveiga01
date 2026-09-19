@@ -40,11 +40,10 @@ Record, relive &amp; share group rides.
 <summary><sub>build log / writing</sub></summary>
 
 <!-- ACTIVITY:START -->
-⬆️ Pushed 0 commits to `rodriveiga01/second-thought`
 ⬆️ Pushed 0 commits to `rodriveiga01/tokencensus`
+⬆️ Pushed 0 commits to `rodriveiga01/second-thought`
 🌱 New branch in `rodriveiga01/second-thought`
 🌱 New branch in `rodriveiga01/tokencensus`
-⬆️ Pushed 0 commits to `rodriveiga01/apogee`
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
