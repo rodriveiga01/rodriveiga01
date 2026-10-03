@@ -21,6 +21,9 @@ Record, relive &amp; share group rides.
 | :-- | :-- |
 | <sub>Swift · MapKit · Supabase · offline queue + 1080×1920 export</sub> | <sub>Kotlin · Compose · Room · same offline contract</sub> |
 
+**[syrinx](https://github.com/rodriveiga01/syrinx)** — hold-to-talk dictation for macOS: hold Right Option, speak, release, text lands at your cursor. On-device Whistle model, ~0.2 s release-to-text.<br />
+<sub>Python · PyObjC pill overlay · public</sub>
+
 **[Solas](https://github.com/rodriveiga01/Solas)** — macOS menu-bar explainer card on a global hotkey, powered by opencode.<br />
 <sub>Swift · public</sub>
 
