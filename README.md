@@ -43,10 +43,11 @@ Record, relive &amp; share group rides.
 <summary><sub>build log / writing</sub></summary>
 
 <!-- ACTIVITY:START -->
+⬆️ Pushed 0 commits to `rodriveiga01/syrinx`
+🌱 New branch in `rodriveiga01/syrinx`
 ⬆️ Pushed 0 commits to `rodriveiga01/mx5-light`
 🌱 New branch in `rodriveiga01/mx5-light`
 ⬆️ Pushed 0 commits to `rodriveiga01/tokencensus`
-⬆️ Pushed 0 commits to `rodriveiga01/second-thought`
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
