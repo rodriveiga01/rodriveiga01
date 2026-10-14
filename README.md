@@ -43,11 +43,11 @@ Record, relive &amp; share group rides.
 <summary><sub>build log / writing</sub></summary>
 
 <!-- ACTIVITY:START -->
+🔀 PR opened in `pingdotgg/t3code`
 🌱 New branch in `rodriveiga01/FinderSearch`
 ⭐ Starred `morluto/rea`
 ⬆️ Pushed 0 commits to `rodriveiga01/FinderSearch`
 ⬆️ Pushed 0 commits to `rodriveiga01/t3code`
-🔀 PR opened in `zeusinsight/FinderSearch`
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
