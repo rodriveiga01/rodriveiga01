@@ -46,7 +46,6 @@ Record, relive &amp; share group rides.
 🌱 New branch in `rodriveiga01/one-night-in-waco`
 ⬆️ Pushed 0 commits to `rodriveiga01/one-night-in-waco`
 🌱 New branch in `rodriveiga01/t3code`
-🔀 PR opened in `pingdotgg/t3code`
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
