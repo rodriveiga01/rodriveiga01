@@ -43,9 +43,11 @@ Record, relive &amp; share group rides.
 <summary><sub>build log / writing</sub></summary>
 
 <!-- ACTIVITY:START -->
+🔀 PR closed in `espetro/freebuff`
+🔀 PR opened in `espetro/freebuff`
+🍴 Forked `espetro/freebuff`
 🌱 New branch in `rodriveiga01/one-night-in-waco`
 ⬆️ Pushed 0 commits to `rodriveiga01/one-night-in-waco`
-🌱 New branch in `rodriveiga01/t3code`
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
