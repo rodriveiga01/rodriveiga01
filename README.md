@@ -47,7 +47,6 @@ Record, relive &amp; share group rides.
 🔀 PR closed in `espetro/freebuff`
 🔀 PR opened in `espetro/freebuff`
 🍴 Forked `espetro/freebuff`
-🌱 New branch in `rodriveiga01/one-night-in-waco`
 <!-- ACTIVITY:END -->
 
 <!-- BLOG:START -->
